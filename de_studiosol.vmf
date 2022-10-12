@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9324"
-	"mapversion" "1907"
+	"mapversion" "1908"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -62,7 +62,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "1907"
+	"mapversion" "1908"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -4975,7 +4975,7 @@ world
 		{
 			"id" "259496"
 			"plane" "(-325 -368 137) (-179 -368 137) (-179 -364 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[-1 0 0 -56] 0.25"
 			"vaxis" "[0 -1 0 224.002] 0.25"
 			"rotation" "0"
@@ -5051,7 +5051,7 @@ world
 		{
 			"id" "259502"
 			"plane" "(-327 -364 137) (-327 -368 137) (-325 -368 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[-1 0 0 -56] 0.25"
 			"vaxis" "[0 -1 0 224.002] 0.25"
 			"rotation" "0"
@@ -9148,7 +9148,7 @@ world
 		{
 			"id" "255946"
 			"plane" "(717 480 1) (717 524 1) (717 524 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 -1 0 224] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -9159,7 +9159,7 @@ world
 		{
 			"id" "255945"
 			"plane" "(813 480 1) (717 480 1) (717 480 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[-1 0 0 180] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -9170,7 +9170,7 @@ world
 		{
 			"id" "255944"
 			"plane" "(717 524 1) (813 524 1) (813 524 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[-1 0 0 180] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -10891,7 +10891,7 @@ world
 		{
 			"id" "245557"
 			"plane" "(-183 104 98) (-183 -159 98) (-171 -159 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -236] 0.25"
 			"vaxis" "[1 0 0 12] 0.25"
 			"rotation" "0"
@@ -10968,7 +10968,7 @@ world
 		{
 			"id" "245563"
 			"plane" "(-183 111 98) (-183 104 98) (-171 104 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -236] 0.25"
 			"vaxis" "[1 0 0 12] 0.25"
 			"rotation" "0"
@@ -11199,7 +11199,7 @@ world
 		{
 			"id" "245653"
 			"plane" "(-183 102 98) (-183 102 137) (-183 104 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -12] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -11276,7 +11276,7 @@ world
 		{
 			"id" "245665"
 			"plane" "(-255 102 1) (-255 102 98) (-255 104 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -12] 0.25"
 			"vaxis" "[0 0 -1 8] 0.25"
 			"rotation" "0"
@@ -11353,7 +11353,7 @@ world
 		{
 			"id" "245677"
 			"plane" "(-183 102 1) (-183 102 98) (-183 104 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -12] 0.25"
 			"vaxis" "[0 0 -1 8] 0.25"
 			"rotation" "0"
@@ -12273,7 +12273,7 @@ world
 		{
 			"id" "238003"
 			"plane" "(129 116 1) (129 116 137) (129 112 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -76] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -13508,7 +13508,7 @@ world
 		{
 			"id" "236545"
 			"plane" "(117 316 98) (117 268 98) (129 268 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 40] 0.25"
 			"rotation" "0"
@@ -13661,7 +13661,7 @@ world
 		{
 			"id" "236557"
 			"plane" "(117 112 98) (117 57 98) (129 57 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 40] 0.25"
 			"rotation" "0"
@@ -13814,7 +13814,7 @@ world
 		{
 			"id" "236569"
 			"plane" "(117 -99 98) (117 -155 98) (129 -155 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 40] 0.25"
 			"rotation" "0"
@@ -14043,7 +14043,7 @@ world
 		{
 			"id" "236587"
 			"plane" "(117 -311 98) (117 -364 98) (129 -364 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[1 0 0 40] 0.25"
 			"rotation" "0"
@@ -14426,7 +14426,7 @@ world
 		{
 			"id" "236671"
 			"plane" "(-183 -311 98) (-183 -364 98) (-171 -364 98)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -236] 0.25"
 			"vaxis" "[1 0 0 12] 0.25"
 			"rotation" "0"
@@ -15041,7 +15041,7 @@ world
 		{
 			"id" "230953"
 			"plane" "(-179 324 137) (-179 -520 137) (125 -520 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 252] 0.25"
 			"vaxis" "[-1 0 0 -192] 0.25"
 			"rotation" "0"
@@ -15271,7 +15271,7 @@ world
 		{
 			"id" "231415"
 			"plane" "(-499 -560 137) (-499 -632 137) (445 -632 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 252] 0.25"
 			"vaxis" "[0 1 0 -192] 0.25"
 			"rotation" "0"
@@ -15348,7 +15348,7 @@ world
 		{
 			"id" "231451"
 			"plane" "(-399 -632 137) (-399 -884 137) (-303 -884 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 240] 0.25"
 			"vaxis" "[0 1 0 -228] 0.25"
 			"rotation" "0"
@@ -15424,7 +15424,7 @@ world
 		{
 			"id" "231481"
 			"plane" "(-67 -520 137) (-67 -560 137) (13 -560 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 148] 0.25"
 			"vaxis" "[0 1 0 -96] 0.25"
 			"rotation" "0"
@@ -15522,7 +15522,7 @@ world
 		{
 			"id" "231551"
 			"plane" "(-495 -560 97) (-495 -560 137) (-499 -560 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[-1 0 0 -16] 0.25"
 			"vaxis" "[0 0 -1 -220] 0.25"
 			"rotation" "0"
@@ -16161,7 +16161,7 @@ world
 		{
 			"id" "228585"
 			"plane" "(-499 -631.973 1) (-499 -644 1) (-499 -644 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -176.004] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -16282,7 +16282,7 @@ world
 		{
 			"id" "228144"
 			"plane" "(-59 -520 97.7105) (-59 -516 97.7105) (-59 -516 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -223.997] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -16601,7 +16601,7 @@ world
 		{
 			"id" "228209"
 			"plane" "(-207 -628 1) (-207 -632 1) (-207 -632 97)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 -1 0 236.002] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -16612,7 +16612,7 @@ world
 		{
 			"id" "228208"
 			"plane" "(-211 -628 1) (-207 -628 1) (-207 -628 97)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[-1 0 0 -144] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -16689,7 +16689,7 @@ world
 		{
 			"id" "228550"
 			"plane" "(-211 -560 97) (-207 -560 97) (-207 -560 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[-1 0 0 -144] 0.25"
 			"vaxis" "[0 0 -1 -220] 0.25"
 			"rotation" "0"
@@ -20838,7 +20838,7 @@ world
 		{
 			"id" "33957"
 			"plane" "(-771 524 1) (-771 480 1) (-771 480 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -208] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -20849,7 +20849,7 @@ world
 		{
 			"id" "33956"
 			"plane" "(-867 524 1) (-771 524 1) (-771 524 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 140] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -20860,7 +20860,7 @@ world
 		{
 			"id" "33955"
 			"plane" "(-771 480 1) (-867 480 1) (-867 480 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 140] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -21817,7 +21817,7 @@ world
 		{
 			"id" "32807"
 			"plane" "(129 -95 1) (129 -95 137) (129 -99 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -21894,7 +21894,7 @@ world
 		{
 			"id" "32813"
 			"plane" "(129 57 1) (129 57 137) (129 53 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -22048,7 +22048,7 @@ world
 		{
 			"id" "32843"
 			"plane" "(129 -307 1) (129 -307 137) (129 -311 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -22125,7 +22125,7 @@ world
 		{
 			"id" "231733"
 			"plane" "(129 -155 1) (129 -155 137) (129 -159 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -22279,7 +22279,7 @@ world
 		{
 			"id" "231757"
 			"plane" "(129 -364 1) (129 -364 137) (129 -368 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -22356,7 +22356,7 @@ world
 		{
 			"id" "32945"
 			"plane" "(-183 -368 1) (-183 -368 137) (-183 -364 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 -1 0 32] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -22996,7 +22996,7 @@ world
 			"plane" "(-811 316 1) (-811 104 1) (-811 104 49)"
 			"material" "REALWORLDTEXTURES/NEW/WOODFLOOR_A01"
 			"uaxis" "[0 1 0 -144.189] 0.108607"
-			"vaxis" "[0 0 -1 -402.667] 0.375"
+			"vaxis" "[0 0 -1 -444] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -24866,7 +24866,7 @@ world
 		{
 			"id" "31240"
 			"plane" "(125 -520 137) (125 -364 137) (125 -364 138)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -236] 0.25"
 			"rotation" "0"
@@ -25249,7 +25249,7 @@ world
 		{
 			"id" "30513"
 			"plane" "(129 264 1) (129 268 1) (129 268 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -30122,7 +30122,7 @@ world
 		{
 			"id" "260741"
 			"plane" "(733 -236 1) (733 -172 1) (733 -172 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[0 0 -1 -220] 0.25"
 			"rotation" "0"
@@ -30144,7 +30144,7 @@ world
 		{
 			"id" "260739"
 			"plane" "(733 -172 1) (813 -172 1) (813 -172 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 140] 0.25"
 			"vaxis" "[0 0 -1 -220] 0.25"
 			"rotation" "0"
@@ -30155,7 +30155,7 @@ world
 		{
 			"id" "260738"
 			"plane" "(813 -236 1) (733 -236 1) (733 -236 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 140] 0.25"
 			"vaxis" "[0 0 -1 -220] 0.25"
 			"rotation" "0"
@@ -30199,7 +30199,7 @@ world
 		{
 			"id" "1899"
 			"plane" "(717 972 1) (717 1016 1) (717 1016 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[0 1 0 -128] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -30221,7 +30221,7 @@ world
 		{
 			"id" "1901"
 			"plane" "(717 1016 1) (813 1016 1) (813 1016 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 204] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -30232,7 +30232,7 @@ world
 		{
 			"id" "1902"
 			"plane" "(813 972 1) (717 972 1) (717 972 137)"
-			"material" "LUKATI/MARBLE/MARBLE1"
+			"material" "CAMPUS/PLASTER/PLASTER_SMOOTH01"
 			"uaxis" "[1 0 0 204] 0.25"
 			"vaxis" "[0 0 -1 -92] 0.25"
 			"rotation" "0"
@@ -96441,8 +96441,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-654.342 -614.527 115.38]"
-		"look" "[-717.092 -593.632 88.1211]"
+		"position" "[696.249 -266.469 11.2381]"
+		"look" "[733.92 -207.152 -2.16626]"
 	}
 }
 cordons
